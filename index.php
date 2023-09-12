@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
 	
-	<title>Progressus - Free business bootstrap template by GetTemplate</title>
+	<title>Progressus - Templade de Boostrap de prueba</title>
 
 	<link rel="shortcut icon" href="assets/images/gt_favicon.png">
 	
@@ -36,16 +36,16 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
-					<li class="active"><a href="#">Home</a></li>
-					<li><a href="about.php">About</a></li>
+					<li class="active"><a href="#">Hogar</a></li>
+					<li><a href="about.php">Acerca de</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Mas paginas<b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="sidebar-left.php">Left Sidebar</a></li>
 							<li class="active"><a href="sidebar-right.php">Right Sidebar</a></li>
 						</ul>
 					</li>
-					<li><a href="contact.php">Contact</a></li>
+					<li><a href="contact.php">Contacto</a></li>
 					<li><a class="btn" href="signin.php">SIGN IN / SIGN UP</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->

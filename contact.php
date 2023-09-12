@@ -63,7 +63,7 @@
 			<!-- Article main content -->
 			<article class="col-sm-9 maincontent">
 				<header class="page-header">
-					<h1 class="page-title">Contact us</h1>
+					<h1 class="page-title">Contactanos</h1>
 				</header>
 				
 				<p>
