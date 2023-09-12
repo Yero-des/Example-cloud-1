@@ -18,11 +18,6 @@
 	<link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen" >
 	<link rel="stylesheet" href="assets/css/main.css">
 
-	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	<!--[if lt IE 9]>
-	<script src="assets/js/html5shiv.js"></script>
-	<script src="assets/js/respond.min.js"></script>
-	<![endif]-->
 </head>
 
 <body>
@@ -36,17 +31,17 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="about.php">About</a></li>
+					<li><a href="index.php">Hogar</a></li>
+					<li><a href="about.php">Acerca de</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Mas paginas<b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="sidebar-left.php">Left Sidebar</a></li>
 							<li><a href="sidebar-right.php">Right Sidebar</a></li>
 						</ul>
 					</li>
-					<li class="active"><a href="contact.php">Contact</a></li>
-					<li><a class="btn" href="signin.php">SIGN IN / SIGN UP</a></li>
+					<li class="active"><a href="contact.php">Contacto</a></li>
+					<li><a class="btn" href="signin.php">INGRESAR / REGISTRARTE</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div>
